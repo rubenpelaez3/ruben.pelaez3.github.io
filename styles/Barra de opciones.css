@@ -1,0 +1,40 @@
+/*Joshua Benjamín Pedraza Castro SMR 2B*/
+.JBPC{
+    font-size: 25px;
+    color: red;
+    font-style: italic;
+}
+
+nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 5%;
+    padding-right: 5%;
+    font-weight: bolder;
+
+}
+
+.Contenedor{
+    background-color: yellow;
+    margin-bottom: 25px;
+    position: sticky;
+    z-index: 100;
+    top: 0;
+}
+
+
+a{
+    color: red;
+    text-decoration: none;
+}
+
+a:hover{
+    color: rgb(168, 168, 168);
+}
+body{
+    background-color: blue;
+}
+

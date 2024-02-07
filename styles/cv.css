@@ -1,0 +1,34 @@
+/*Joshua Benjamín Pedraza Castro SMR 2B*/
+.linea{
+    text-decoration-line: underline;
+    font-size: xx-large;
+    padding-bottom: 20px;
+    border: 0cap;
+    background-color: transparent;
+    color: red;
+   
+}
+table, th, td{
+    text-align: left;
+    
+}
+th, td{
+    padding: 20px;
+    border: solid red 5px;
+    border-collapse: collapse;
+    background-color: yellow;
+    color: red;
+}
+
+table{
+    width: 500px;
+    
+    
+}
+.cvcolm{
+    column-count: 2;
+    column-gap: 0px;
+}
+video{
+    width: 50%;
+}
