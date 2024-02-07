@@ -1,0 +1,19 @@
+body{
+    background-color: yellow;
+
+
+}
+.img {
+    width: 150px;
+    height: 100px;
+    display: table-cell;
+}
+h1{
+    text-align: center;
+
+}
+div.container1 img{
+    margin: auto;
+
+
+}
